@@ -1,4 +1,4 @@
-<h1>Write Conditional Statements in Python</h1>
+<h1>Writing Conditional Statements in Python</h1>
 
 <h2>Introduction</h2>
 Conditional statements are a powerful structure that help in achieving automation when you need to make sure conditions are met before certain actions are executed. For example, security analysts can use conditional statements in Python to check if users are approved to access a device. <br/>
